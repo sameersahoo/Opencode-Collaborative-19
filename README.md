@@ -10,7 +10,7 @@ Join Zulip Chat [Zulip](https://opencode.zulipchat.com/)
 
 Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 
-## About us
+## About us.
 
 [OpenCode](https://opencodeiiita.github.io/) is a month long open source program organised by [GeekHaven IIIT Allahabad](https://geekhaven.iiita.ac.in). OpenCode attracts talent from all over the world. People contribute to various open source projects. We welcome everyone to experience the awesome event and win exciting prizes.
 
@@ -93,7 +93,7 @@ We will follow the official GitHub documentation for setting up the repo.
 
   > [Link to docs](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html#commit-your-changes)
 
-  Committing means making changes to the project and adding your changes to the GitHub.
+  Committing means making changes to the project and adding your changes to the GitHub..
 
 - Making a pull request
 
